@@ -1,6 +1,4 @@
 # text-processing-with-regex
-
-# Project Name
 > Simple text processing, part 2. First steps with regular expressions (regex) in Python.
 
 ## Table of contents
